@@ -20,18 +20,21 @@ Loom/Zoom: <pashttps://protect.checkpoint.com/v2/r01/___https://www.loom.com/sha
 5. Boot disk: default minimal
 6. Network: default VPC; ephemeral public IP
 
-![GCP create](images/gcp_create.png)
+![GCP create](<Screenshot 1GCP.png>)
+
 
 ### Start/Stop
 - Start: <state shows RUNNING>
 - Stop: <state shows TERMINATED/STOPPED>
 
-![GCP running](images/gcp_running.png)
+![GCP running](<Screenshot 2GCP.png>)
+
 
 ### Delete
 - Delete instance and verify no disks/IPs remain
 
-![GCP cleaned](images/gcp_clean.png)
+![GCP cleaned](<Screenshot 3GCP.png>)
+
 
 ---
 
@@ -44,20 +47,21 @@ Loom/Zoom: <pashttps://protect.checkpoint.com/v2/r01/___https://www.loom.com/sha
 5. Public IP: ephemeral
 6. Boot volume: default minimal
 
-
 ![OCI create](<Screenshot 1oracle.png>)
+
 
 
 ### Start/Stop
 - Start: <state shows RUNNING>
 - Stop: <state shows STOPPED>
+![OCI running](<Screenshot 3POI.png>)
+![OCI running](<Screenshot opi4.png>)
 
-![OCI running](images/oci_running.png)
 
 ### Terminate
 - Terminate and delete boot volume; verify cleanup
 
-![OCI cleaned](images/oci_clean.png)
+![OCI cleaned](<Screenshot opi5.png)
 
 ---
 
