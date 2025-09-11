@@ -6,7 +6,7 @@ Loom GCP video: <pashttps://protect.checkpoint.com/v2/r01/___https://www.loom.co
 
 
 ## Loom OPI video: 
-Below is a link to [video file https://www.loom.com/share/2e324cb606b141b4a78f94b4a90d96cf?sid=42b060c4-7599-40bb-8cae-97ede9afe10a ]
+Below is a link to  the video file https://www.loom.com/share/2e324cb606b141b4a78f94b4a90d96cf?sid=42b060c4-7599-40bb-8cae-97ede9afe10a ]
 
 
 ## Prereqs
@@ -66,17 +66,18 @@ Below is a link to [video file https://www.loom.com/share/2e324cb606b141b4a78f94
 - Terminate and delete boot volume; verify cleanup
 - 
 ![OIlt text](<Screenshot opi5.png>)
-![OCI cleaned]()
+
 
 ---
 
 ## Reflections
 ### Similarities
-- <brief bullets>
+Creating virtual machines in Google Cloud Platform (GCP) and Oracle Cloud Infrastructure (OCI) follows similar fundamental steps: both platforms require selecting a machine type/shape, choosing an operating system image (like Ubuntu), and managing the VM lifecycle through start, stop, and termination operations. Both services also emphasize free-tier eligible options and provide web-based console interfaces for management, though their specific implementations and user experience differ.
 
 ### Differences
 Google definitely simplifies the VM creation process with less steps involved and has a friendlier user interface
-Oracle has many additional required steps that are needed in order to create a virtul machine and also takes a bit longer to to terminate.
+Oracle has many additional required steps that are needed in order to create a virtul machine such as configuring networking with a VPC and public IP, setting up minimal boot volumes.
+Oracle also takes a bit longer to to terminate.
 
 ### Preference (OCI vs GCP) and Why
-  I prefer GCP for a seemless VM creation instance for its seamless easy to use steps and easy operation of terminated the VM once the service is no longer needed
+  I prefer GCP for a seamless VM creation instance for its easy to use steps and easy operation of terminating the VM once the service is no longer needed.
