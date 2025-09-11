@@ -3,10 +3,10 @@
 ## GCP Video link
 Loom GCP video: <pashttps://protect.checkpoint.com/v2/r01/___https://www.loom.com/share/c2535e52010541b2978139b8389dd6cd?t=293&sid=eb4f503a-8f04-4e2e-948c-a8f8a7c9ad5b___.YzJ1OnN0b255YnJvb2s6YzpnOmZhZTVlN2ViNmU2NGY5OWZjMTc3NmFmM2FmM2VkMTZiOjc6M2EzMTo1M2MxMmQ4Yzk3YTUwMTA4NDdlMDJlOTljYWRhOTlmNWI2MjM3ZDE0NmI5ZTMwNmY5NGRkYmJiOGUzM2EzNjE0Omg6VDpG>
 
-<(https://protect.checkpoint.com/v2/r01/___https://www.loom.com/share/c2535e52010541b2978139b8389dd6cd?t=293&sid=eb4f503a-8f04-4e2e-948c-a8f8a7c9ad5b___.YzJ1OnN0b255YnJvb2s6YzpnOmZhZTVlN2ViNmU2NGY5OWZjMTc3NmFmM2FmM2VkMTZiOjc6M2EzMTo1M2MxMmQ4Yzk3YTUwMTA4NDdlMDJlOTljYWRhOTlmNWI2MjM3ZDE0NmI5ZTMwNmY5NGRkYmJiOGUzM2EzNjE0Omg6VDpG)>
 
-Loom OPI video: 
-below is a link to [video file https://www.loom.com/share/2e324cb606b141b4a78f94b4a90d96cf?sid=42b060c4-7599-40bb-8cae-97ede9afe10a ]
+
+## Loom OPI video: 
+Below is a link to [video file https://www.loom.com/share/2e324cb606b141b4a78f94b4a90d96cf?sid=42b060c4-7599-40bb-8cae-97ede9afe10a ]
 
 
 ## Prereqs
@@ -64,8 +64,9 @@ below is a link to [video file https://www.loom.com/share/2e324cb606b141b4a78f94
 
 ### Terminate
 - Terminate and delete boot volume; verify cleanup
-
-![OCI cleaned](<Screenshot opi5.png)
+- 
+![OIlt text](<Screenshot opi5.png>)
+![OCI cleaned]()
 
 ---
 
@@ -74,7 +75,8 @@ below is a link to [video file https://www.loom.com/share/2e324cb606b141b4a78f94
 - <brief bullets>
 
 ### Differences
-- <brief bullets>
+Google definitely simplifies the VM creation process with less steps involved and has a friendlier user interface
+Oracle has many additional required steps that are needed in order to create a virtul machine and also takes a bit longer to to terminate.
 
 ### Preference (OCI vs GCP) and Why
-- <one short paragraph>
+  I prefer GCP for a seemless VM creation instance for its seamless easy to use steps and easy operation of terminated the VM once the service is no longer needed
