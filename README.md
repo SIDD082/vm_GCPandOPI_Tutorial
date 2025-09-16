@@ -1,12 +1,12 @@
 # VM Lifecycle on GCP and OCI — Tutorial
 
 ## GCP Video link
-Loom GCP video: <pashttps://protect.checkpoint.com/v2/r01/___https://www.loom.com/share/c2535e52010541b2978139b8389dd6cd?t=293&sid=eb4f503a-8f04-4e2e-948c-a8f8a7c9ad5b___.YzJ1OnN0b255YnJvb2s6YzpnOmZhZTVlN2ViNmU2NGY5OWZjMTc3NmFmM2FmM2VkMTZiOjc6M2EzMTo1M2MxMmQ4Yzk3YTUwMTA4NDdlMDJlOTljYWRhOTlmNWI2MjM3ZDE0NmI5ZTMwNmY5NGRkYmJiOGUzM2EzNjE0Omg6VDpG>
+Loom GCP video tutuorial of creating a Virtual Machine: https://protect.checkpoint.com/v2/r01/___https://www.loom.com/share/c2535e52010541b2978139b8389dd6cd?t=293&sid=eb4f503a-8f04-4e2e-948c-a8f8a7c9ad5b__
 
 
 
 ## Loom OPI video: 
-Below is a link to  the video file https://www.loom.com/share/2e324cb606b141b4a78f94b4a90d96cf?sid=42b060c4-7599-40bb-8cae-97ede9afe10a ]
+Below is a link to the video file in which we are exploring the Oracle platform of building a Virtual Machine https://www.loom.com/share/2e324cb606b141b4a78f94b4a90d96cf?sid=42b060c4-7599-40bb-8cae-97ede9afe10a ]
 
 
 ## Prereqs
